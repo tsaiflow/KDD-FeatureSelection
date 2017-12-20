@@ -1,9 +1,13 @@
 # KDD-FeatureSelection
 
-The explaination.pdf explains briefly the Problem formulation, Review of past techniques and the Solution part of this project.
+The explaination.pdf explains briefly the Problem formulation, review of past techniques and the Solution part of this project.
+
 Presentation file includes the pdf and ppt version of the presentation. Please read.
+
 Pdf of code can be found in code_pdf, to view the results of my project. Non-PCA, PCA and borrowedFeature are 3 sets of data, their compared results can be found in detail in presenetation file.
+
 Code can be found and inserted in code_ipynb file. 
+
 
 Citations:
 1. Part of the code, mainly the normalizing and one-hot coding part was borrowed from the tutorial here (https://github.com/jeffheaton/t81_558_deep_learning/blob/master/tf_kdd99.ipynb). 
